@@ -1,4 +1,4 @@
 # deploy/before_install
 #!/bin/bash
-sudo rm -rf /var/www/html/
-sudo mkdir /var/www/html/
+sudo rm -rf /var/www/waste/
+sudo mkdir /var/www/waste/
